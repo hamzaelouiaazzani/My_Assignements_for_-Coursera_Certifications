@@ -41,7 +41,7 @@ You can find my certification [here](https://www.coursera.org/account/accomplish
 - Week 1: Handwritten Digits Recognition with Neural Networks : Course2_Advanced_Learning_Algorithms/C2_W1_Assignment.ipynb
 - Week 2: Multiclass Classification with ReLu and Softmax : Course2_Advanced_Learning_Algorithms/C2_W2_Assignment.ipynb
 - Week 3: Model Evaluation and Improvement Techniques (Bias and variation) : Course2_Advanced_Learning_Algorithms/C2_W3_Assignment.ipynb
-- Week 4: Decision Tree for Mushroom Classification] : Course2_Advanced_Learning_Algorithms/C2_W4_Decision_Tree_with_Markdown.ipynb
+- Week 4: Decision Tree for Mushroom Classification : Course2_Advanced_Learning_Algorithms/C2_W4_Decision_Tree_with_Markdown.ipynb
 
 ### Labs of Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning
 
