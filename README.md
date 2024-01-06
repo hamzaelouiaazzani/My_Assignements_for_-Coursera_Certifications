@@ -31,7 +31,7 @@ Welcome to the Coursera Machine Learning Certifications Repository! This reposit
 
 - **Instructors:** Antje Barth, Shelbee Eigenbrode, Mike Chambers and Chris Fregly
   
-- **Offered by:** DeepLearning.AI
+- **Offered by:** DeepLearning.AI and AWS
   
 - **Course:** [Generative AI with Large Language Models (LLMs)](https://www.coursera.org/learn/generative-ai-with-llms).
 
