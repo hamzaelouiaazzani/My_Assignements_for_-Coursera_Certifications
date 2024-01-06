@@ -13,6 +13,8 @@ Welcome to the README for the "Generative AI with Large Language Models (LLMs)" 
     
 - **Offered by:** DeepLearning.AI
   
+- **Course:** [Generative AI with Large Language Models (LLMs)](https://www.coursera.org/learn/generative-ai-with-llms).
+  
 - **What You'll Learn:**
   1. Gain foundational knowledge, practical skills, and a functional understanding of how generative AI works.
   2. Dive into the latest research on Gen AI to understand how companies are creating value with cutting-edge technology.
