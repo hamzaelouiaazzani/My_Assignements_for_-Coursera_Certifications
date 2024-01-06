@@ -2,6 +2,10 @@
 
 Welcome to the Coursera Machine Learning Certifications Repository! This repository contains the submission labs/notebooks of various machine learning certifications I have completed via Coursera and offered by different major insitutions: DeepLearning.AI, Stanford University and AWS.
 
+## Fair Usage Notice
+
+Copying and pasting solutions directly from this repository for your own submissions on Coursera is against the honor code and terms of service of the platform. It is essential to uphold the principles of fairness, honesty, and integrity when undertaking online courses. I encourage you build your own solution by inspiring from my own solutions.
+
 ## Certifications
 
 ### 1. Machine Learning Specialization
