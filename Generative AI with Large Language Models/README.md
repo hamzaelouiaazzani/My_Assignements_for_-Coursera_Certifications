@@ -4,12 +4,27 @@ Welcome to the README of my submission for  the "Generative AI with Large Langua
 
 ## Fair Usage Notice
 
-Copying and pasting solutions directly from this repository for your own submissions on Coursera is against the honor code and terms of service of the platform. It is essential to uphold the principles of fairness, honesty, and integrity when undertaking online courses. I encourage you building your own solution by inspiring from my own solutions.
+Copying and pasting solutions directly from this repository for your own submissions on Coursera is against the honor code and terms of service of the platform. It is essential to uphold the principles of fairness, honesty, and integrity when undertaking online courses.
+
+### Why is Fair Usage Important?
+
+1. **Honor Code Violation:** Copying solutions without understanding or contributing to them is a direct violation of the honor code of Coursera and can lead to severe consequences.
+
+2. **Learning Experience:** The primary purpose of these assignments is to enhance your learning experience. Copying solutions hinders your growth and understanding of the subject matter.
+
+3. **Build Your Own Skills:** Attempting the assignments on your own helps you build crucial problem-solving and coding skills, which are essential in the real-world application of machine learning.
+
+## Note on Ownership
+
+All rights of these notebooks belong to the institutions that offer these certifications. These notebooks are my submissions to the practical labs to complete these certifications.
+
+## Your Responsibility
+
+By using this repository, you acknowledge the importance of fair usage, agree to uphold the integrity of the learning process on Coursera, and recognize the ownership of the institutions over the content. Remember, the knowledge gained through these courses is more valuable than any certificate.
 
 ## Overview
 
 - **Instructors:**
-- 
   - Antje Barth
   - Shelbee Eigenbrode
   - Mike Chambers
