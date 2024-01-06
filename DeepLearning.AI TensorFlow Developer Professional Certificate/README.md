@@ -2,6 +2,10 @@
 
 Welcome to the README of my submission for the "DeepLearning.AI TensorFlow Developer Professional Certificate"! This certification, offered by DeepLearning.AI and instructed by Laurence Moroney, provides a comprehensive understanding of TensorFlow for building machine learning and deep learning applications.
 
+## Fair Usage Notice
+
+Copying and pasting solutions directly from this repository for your own submissions on Coursera is against the honor code and terms of service of the platform. It is essential to uphold the principles of fairness, honesty, and integrity when undertaking online courses. I encourage you building your own solution by inspiring from my own solutions.
+
 ## Overview
 
 - **Instructor:** Laurence Moroney
