@@ -1,6 +1,6 @@
 # Generative AI with Large Language Models (LLMs)
 
-Welcome to the README of my submission to  the "Generative AI with Large Language Models (LLMs)" certification (one course)! This course is instructed by top Amazon AI experts: Antje Barth, Shelbee Eigenbrode, Mike Chambers, and Chris Fregly. It is offered by DeepLearning.AI via Coursera.
+Welcome to the README of my submission for  the "Generative AI with Large Language Models (LLMs)" certification (one course)! This course is instructed by top Amazon AI experts: Antje Barth, Shelbee Eigenbrode, Mike Chambers, and Chris Fregly. It is offered by DeepLearning.AI via Coursera.
 
 ## Overview
 
