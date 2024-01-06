@@ -2,6 +2,10 @@
 
 Welcome to the README of my submission for the Machine Learning Specialization! This certification, offered by Stanford University and DeepLearning.AI, is taught by top instructor Andrew Ng on Coursera.
 
+## Fair Usage Notice
+
+Copying and pasting solutions directly from this repository for your own submissions on Coursera is against the honor code and terms of service of the platform. It is essential to uphold the principles of fairness, honesty, and integrity when undertaking online courses. I encourage you building your own solution by inspiring from my own solutions.
+
 ## Overview
 
 - **Instructor:** Andrew Ng
