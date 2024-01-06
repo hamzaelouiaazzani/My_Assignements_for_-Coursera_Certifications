@@ -1,6 +1,6 @@
 # Machine Learning Specialization
 
-Welcome to the README for the Machine Learning Specialization! This certification, offered by Stanford University and DeepLearning.AI, is taught by top instructor Andrew Ng on Coursera.
+Welcome to the README of my submission for the Machine Learning Specialization! This certification, offered by Stanford University and DeepLearning.AI, is taught by top instructor Andrew Ng on Coursera.
 
 ## Overview
 
