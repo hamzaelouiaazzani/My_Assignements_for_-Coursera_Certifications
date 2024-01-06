@@ -36,7 +36,7 @@ Welcome to the Coursera Machine Learning Certifications Repository! This reposit
 - **Course:** [Generative AI with Large Language Models (LLMs)](https://www.coursera.org/learn/generative-ai-with-llms).
 
 - **Gained Skills:**
-  1. Gain foundational knowledge and practical skills in generative AI (Prompt Engineering, Finetuning techniques, Reinforcement Learning from Human Feedback (RLHF).
+  1. Gain foundational knowledge and practical skills in generative AI: Prompt Engineering, Finetuning techniques, Reinforcement Learning from Human Feedback (RLHF).
   2. Dive into the latest research on Gen AI and its real-world applications.
   3. Receive instruction from expert AWS AI practitioners actively building and deploying AI in business use-cases.
      
