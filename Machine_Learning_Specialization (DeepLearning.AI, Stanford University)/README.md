@@ -7,9 +7,9 @@ Welcome to the README for the Machine Learning Specialization! This certificatio
 - **Instructor:** Andrew Ng
 - **Offered by:** Stanford University & DeepLearning.AI
 - **Courses:**
-  1. [Supervised Machine Learning: Regression and Classification](https://github.com/hamzaelouiaazzani/machine_learning_specialization/Course1_Supervised_Machine_Learning_Regression_and_Classification)
-  2. [https://github.com/hamzaelouiaazzani/Advanced Learning Algorithms](machine_learning_specialization/Course2_Advanced_Learning_Algorithms)
-  3. [https://github.com/hamzaelouiaazzani/Unsupervised Learning, Recommenders, Reinforcement Learning](machine_learning_specialization/Course3_Unsupervised_Learning_Recommenders_Reinforcement_Learning)
+    1. [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
+  2. [Advanced Learning Algorithms](machine_learning_specialization/Course2_Advanced_Learning_Algorithms/README.md)
+  3. [Unsupervised Learning, Recommenders, Reinforcement Learning](machine_learning_specialization/Course3_Unsupervised_Learning_Recommenders_Reinforcement_Learning/README.md)
 - **Gained Skills:**
   - Build ML models with NumPy & scikit-learn
   - Train supervised models for prediction & binary classification tasks
