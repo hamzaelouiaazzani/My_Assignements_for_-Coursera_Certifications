@@ -24,7 +24,7 @@ You can find my certification for this course [here](https://coursera.org/share/
 
 ## Notebooks
 
-### Lab 1: Dialogue Summarization with Generative AI
+### Lab 1: Dialogue Summarization with Generative AI using Prompt Engineering techniques
 
 - Lab_1_summarize_dialogue.ipynb : generative_ai_course/Lab_1_summarize_dialogue.ipynb
   - Task: Dialogue Summarization
@@ -40,7 +40,7 @@ You can find my certification for this course [here](https://coursera.org/share/
   - Use full fine-tuning and evaluate with ROUGE metrics.
   - Perform PEFT fine-tuning and evaluate benefits.
 
-### Lab 3: Fine-tune Model to Detoxify Summaries
+### Lab 3: Fine-tune Model to Detoxify Summaries using Reinforcement Learning from Human Feedback (RLHF)
 
 - Lab_3_fine_tune_model_to_detoxify_summaries.ipynb : generative_ai_course/Lab_3_fine_tune_model_to_detoxify_summaries.ipynb
   - Task: Detoxify Summaries
