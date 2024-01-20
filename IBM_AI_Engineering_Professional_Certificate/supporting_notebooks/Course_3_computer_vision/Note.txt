@@ -1,0 +1,1 @@
+This Course include numerous applications of object detection and classification in IBM CV studio Cloud
