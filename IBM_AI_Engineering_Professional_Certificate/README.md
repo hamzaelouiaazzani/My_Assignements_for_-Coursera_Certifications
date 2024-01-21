@@ -49,4 +49,6 @@ You can find my certification [here](https://coursera.org/share/b78ff9b825c5c23d
   - **Course_6_Capstone_Project (Course6):** This folder showcases my capstone project submission, where I apply the skills acquired during the 5 courses. The project revolves around crack detection, crucial for structural health monitoring and inspection. It includes two subfolders: "with_keras" and "with_pytorch," each containing notebooks for Data Loading, Data Preparation, and Data Modeling.
   - **supporting_notebooks:** Access helpful notebooks prepared by IBM instructors throughout the five courses.
 
-Note all rights of these notebooks belong to DeepLearning.AI. These notebooks are my submissions to the practical labs of this certification.
+## Build Your Career in AI and Data Science
+
+If you are passionate about building a successful career in Artificial Intelligence and Data Science, I highly recommend enrolling via [this link](https://www.coursera.org/specializations/machine-learning-introduction). This certification, offered by renowned institutions and expert instructors, covers a wide range of topics and provides hands-on experience to sharpen your skills.
