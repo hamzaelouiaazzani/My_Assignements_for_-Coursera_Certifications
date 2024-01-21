@@ -43,7 +43,7 @@ By using this repository, you acknowledge the importance of fair usage, agree to
 
 You can find my certification for this course [here](https://coursera.org/share/922e88ee77eb6c36e31e22571b3518d2).
 
-## Notebooks
+## Certification Notebooks and Labs
 
 ### Lab 1: Dialogue Summarization with Generative AI using Prompt Engineering techniques
 
