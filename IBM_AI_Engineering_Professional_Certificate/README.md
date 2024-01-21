@@ -42,6 +42,7 @@ You can find my certification [here](https://coursera.org/share/b78ff9b825c5c23d
 
 ## Certification Notebooks and Labs
   - IBM_AI_Engineering_final_assignment_1.ipynb (Course1): Apply algorithms such as Logistic Regression, KNN, Decision Trees, and SVM to predict weather states (Rain or Not) using data from the Australian Government's Bureau of Meteorology. Evaluate your model using metrics like Accuracy Score, Jaccard Index, F1-Score, LogLoss, Mean Absolute Error, Mean Squared Error, and R2-Score.
+  - concrete_data.csv: Consists of the dataset used in IBM_AI_Engineering_final_assignment_1.ipynb.
   - IBM_AI_Engineering_final_assignment_2.ipynb (Course2):  Build a regression model using the Keras library to analyze a tabular dataset focused on concrete compressive strength.
   - IBM_AI_Engineering_final_assignment_3.ipynb (Course3): Utilize IBM CV Studio to construct a classifier predicting whether an image contains a road traffic sign.
   - IBM_AI_Engineering_final_assignment_4.ipynb (Course4): Develop a CNN-based classifier using PyTorch for the MNIST Dataset.
