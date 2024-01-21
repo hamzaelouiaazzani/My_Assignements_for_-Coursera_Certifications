@@ -68,4 +68,6 @@ You can find my certification for this course [here](https://coursera.org/share/
   - Fine-tune FLAN-T5 model to generate less toxic content.
   - Use Facebook's hate speech reward model with Proximal Policy Optimization Reinforcement learning algorithm (PPO).
 
-Note all rights of these notebooks belong to DeepLearning.AI and AWS. These notebook are my submissions to the practical labs of this certification.
+## Build Your Career in AI and Data Science
+
+If you are passionate about building a successful career in Artificial Intelligence and Data Science, I highly recommend enrolling via [this link](https://www.coursera.org/learn/generative-ai-with-llms?). This certification, offered by renowned institutions and expert instructors, covers a wide range of topics and provides hands-on experience to sharpen your skills.
