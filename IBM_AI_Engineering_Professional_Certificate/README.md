@@ -51,4 +51,4 @@ You can find my certification [here](https://coursera.org/share/b78ff9b825c5c23d
 
 ## Build Your Career in AI and Data Science
 
-If you are passionate about building a successful career in Artificial Intelligence and Data Science, I highly recommend enrolling via [this link](https://www.coursera.org/specializations/machine-learning-introduction). This certification, offered by renowned institutions and expert instructors, covers a wide range of topics and provides hands-on experience to sharpen your skills.
+If you are passionate about building a successful career in Artificial Intelligence and Data Science, I highly recommend enrolling via [this link](https://www.coursera.org/professional-certificates/ai-engineer). This certification, offered by renowned institutions and expert instructors, covers a wide range of topics and provides hands-on experience to sharpen your skills.
