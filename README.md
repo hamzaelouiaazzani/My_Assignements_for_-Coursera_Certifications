@@ -81,5 +81,44 @@ By using this repository, you acknowledge the importance of fair usage, agree to
   4. [Sequences, Time Series, and Prediction](https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction?specialization=tensorflow-in-practice)
  
 - [Certification Link](https://coursera.org/share/5172a766497946bb5f650188e3ef2a24)
+
+# IBM AI Engineer Professional Certificate
+
+Welcome to my repository showcasing notebooks and labs from the IBM AI Engineer Professional Certificate on Coursera. This certificate, offered by IBM, covers a comprehensive set of skills in machine learning and deep learning.
+
+## Instructors
+
+- Romeo Kienzler
+- Joseph Santarcangelo
+- Alex Aklson
+- SAEED AGHABOZORGI
+- Samaya Madhavan
+- Aije Egwaikhide
+- JEREMY NILMEIER
+
+## Offered by
+
+IBM
+
+## Gained Skills
+
+- Describe machine learning, deep learning, neural networks, and ML algorithms (classification, regression, clustering, and dimensional reduction).
+- Implement supervised and unsupervised machine learning models using SciPy and ScikitLearn.
+- Deploy machine learning algorithms and pipelines on Apache Spark.
+- Build deep learning models and neural networks using Keras, PyTorch, and TensorFlow.
+
+## Courses
+
+1. [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python?specialization=ai-engineer)
+2. [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/learn/introduction-to-deep-learning-with-keras?specialization=ai-engineer)
+3. [Introduction to Computer Vision and Image Processing](https://www.coursera.org/learn/introduction-computer-vision-watson-opencv?specialization=ai-engineer)
+4. [Deep Neural Networks with PyTorch](https://www.coursera.org/learn/deep-neural-networks-with-pytorch?specialization=ai-engineer)
+5. [Building Deep Learning Models with TensorFlow](https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow?specialization=ai-engineer)
+6. [AI Capstone Project with Deep Learning](https://www.coursera.org/learn/ai-deep-learning-capstone?specialization=ai-engineer)
+
+## Certification Link
+
+You can find my certification [here](https://coursera.org/share/b78ff9b825c5c23d48152369418eff2b).
+
   
-Note all rights of these notebooks belong to the institutions that offer the these certifications. These notebooks are my submissions to the practical labs to complete these certifications.
+Note all rights of these notebooks belong to the institutions that offer these certifications. These notebooks are my submissions to the practical labs to complete these certifications.
