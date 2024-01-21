@@ -49,7 +49,7 @@ By using this repository, you acknowledge the importance of fair usage, agree to
 
 You can find my certification [here](https://www.coursera.org/account/accomplishments/specialization/certificate/LSWL93VXN373).
 
-## Courses and Notebooks
+## Certification Notebooks and Labs
 
 ### Labs of Course 1: Supervised Machine Learning: Regression and Classification
 
