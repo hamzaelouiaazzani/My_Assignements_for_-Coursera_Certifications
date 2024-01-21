@@ -36,7 +36,7 @@ By using this repository, you acknowledge the importance of fair usage, agree to
 
 You can find my certification [here](https://coursera.org/share/5172a766497946bb5f650188e3ef2a24).
 
-## Certification Courses
+## Certification Notebooks and Labs
 
 1. **Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning**
    - **Submission Notebooks:**
