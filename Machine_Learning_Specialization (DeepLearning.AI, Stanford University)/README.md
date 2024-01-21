@@ -71,5 +71,6 @@ You can find my certification [here](https://www.coursera.org/account/accomplish
 - Week 2: Content-Based Recommender System with deep neural networks : Course3_Unsupervised_Learning_Recommenders_Reinforcement_Learning/C3_W2_RecSysNN_Assignment.ipynb
 - Week 3: Virtual Lunar Lander in Deep Reinforcement Learning (Deep Q-Learning) : Course3_Unsupervised_Learning_Recommenders_Reinforcement_Learning/C3_W3_A1_Assignment.ipynb
 
+## Build Your Career in AI and Data Science
 
-Note all rights of these notebooks belong to DeepLearning.AI and Stanford University. These notebook are my submissions to the practical labs of this certification.
+If you are passionate about building a successful career in Artificial Intelligence and Data Science, I highly recommend enrolling via [this link](https://www.coursera.org/specializations/machine-learning-introduction). This certification, offered by renowned institutions and expert instructors, covers a wide range of topics and provides hands-on experience to sharpen your skills.
