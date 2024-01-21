@@ -89,10 +89,10 @@ By using this repository, you acknowledge the importance of fair usage, agree to
 - **Offered by:** IBM
   
 - **Gained Skills:**
-  - Describe machine learning, deep learning, neural networks, and ML algorithms like classification, regression, clustering, and dimensional reduction.
-  - Implement supervised and unsupervised machine learning models using SciPy and ScikitLearn.
-  - Deploy machine learning algorithms and pipelines on Apache Spark.
-  - Build deep learning models and neural networks using Keras, PyTorch, and TensorFlow.
+  - Artificial Intelligence (AI) , Deep Learning and Machine Learning.
+  - Computer Vision, Image Processing, Object Detection
+  - Tensorflow, Keras and PyTorch
+  - OpenCV, SciPy and scikit-learn
 
 - **Courses:**
   1. [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python?specialization=ai-engineer)
