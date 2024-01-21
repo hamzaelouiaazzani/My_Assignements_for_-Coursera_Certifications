@@ -65,4 +65,6 @@ You can find my certification [here](https://coursera.org/share/5172a766497946bb
      - C4W3_Assignment.ipynb: Using RNNs to predict time series.
      - C4W4_Assignment.ipynb: Using real-world data.
 
-Note all rights of these notebooks belong to DeepLearning.AI. These notebooks are my submissions to the practical labs of this certification.
+## Build Your Career in AI and Data Science
+
+If you are passionate about building a successful career in Artificial Intelligence and Data Science, I highly recommend enrolling via [this link](https://www.coursera.org/professional-certificates/tensorflow-in-practice). This certification, offered by renowned institutions and expert instructors, covers a wide range of topics and provides hands-on experience to sharpen your skills.
