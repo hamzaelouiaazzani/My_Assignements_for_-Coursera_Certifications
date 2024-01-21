@@ -16,7 +16,7 @@ Copying and pasting solutions directly from this repository for your own submiss
 
 ## Note on Ownership
 
-All rights of these notebooks belong to the institutions that offer these certifications. These notebooks are my submissions to the practical labs to complete these certifications.
+The original notebooks belong to the institutions that offer these certifications under the MIT license. These notebooks are my submissions to the practical labs to complete these certifications.
 
 ## Your Responsibility
 
@@ -104,5 +104,6 @@ By using this repository, you acknowledge the importance of fair usage, agree to
 
 - [Certification Link](https://coursera.org/share/b78ff9b825c5c23d48152369418eff2b)
 
-  
-Note all rights of these notebooks belong to the institutions that offer these certifications. These notebooks are my submissions to the practical labs to complete these certifications.
+## Build Your Career in AI and Data Science
+
+If you are passionate about building a successful career in Artificial Intelligence and Data Science, I highly recommend enrolling in the courses mentioned in this repository. These certifications, offered by renowned institutions and expert instructors, cover a wide range of topics and provide hands-on experience to sharpen your skills.
