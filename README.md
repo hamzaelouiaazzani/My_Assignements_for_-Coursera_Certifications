@@ -102,7 +102,7 @@ By using this repository, you acknowledge the importance of fair usage, agree to
   5. [Building Deep Learning Models with TensorFlow](https://www.coursera.org/learn/building-deep-learning-models-with-tensorflow?specialization=ai-engineer)
   6. [AI Capstone Project with Deep Learning](https://www.coursera.org/learn/ai-deep-learning-capstone?specialization=ai-engineer)
 
-- [Certification Link](https://coursera.org/share/5172a766497946bb5f650188e3ef2a24)
+- [Certification Link](https://coursera.org/share/b78ff9b825c5c23d48152369418eff2b)
 
   
 Note all rights of these notebooks belong to the institutions that offer these certifications. These notebooks are my submissions to the practical labs to complete these certifications.
