@@ -74,7 +74,7 @@ By using this repository, you acknowledge the importance of fair usage, agree to
   3. Building natural language processing systems using TensorFlow.
   4. Applying RNNs, GRUs, and LSTMs for text-based tasks.
      
- - **Courses:**
+- **Courses:**
   1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice)
   2. [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/learn/convolutional-neural-networks-tensorflow?specialization=tensorflow-in-practice)
   3. [Natural Language Processing with TensorFlow](https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice)
