@@ -41,12 +41,12 @@ By using this repository, you acknowledge the importance of fair usage, agree to
 You can find my certification [here](https://coursera.org/share/b78ff9b825c5c23d48152369418eff2b).
 
 ## Certification Notebooks and Labs
-  - IBM_AI_Engineering_final_assignment_1.ipynb (Course1): Apply algorithms such as Logistic Regression, KNN, Decision Trees, and SVM to predict weather states (Rain or Not) using data from the Australian Government's Bureau of Meteorology. Evaluate your model using metrics like Accuracy Score, Jaccard Index, F1-Score, LogLoss, Mean Absolute Error, Mean Squared Error, and R2-Score.
-  - concrete_data.csv: Consists of the dataset used in IBM_AI_Engineering_final_assignment_1.ipynb.
-  - IBM_AI_Engineering_final_assignment_2.ipynb (Course2):  Build a regression model using the Keras library to analyze a tabular dataset focused on concrete compressive strength.
-  - IBM_AI_Engineering_final_assignment_3.ipynb (Course3): Utilize IBM CV Studio to construct a classifier predicting whether an image contains a road traffic sign.
-  - IBM_AI_Engineering_final_assignment_4.ipynb (Course4): Develop a CNN-based classifier using PyTorch for the MNIST Dataset.
-  - Course_6_Capstone_Project (Course6):This folder showcases my capstone project submission, where I apply the skills acquired during the 5 courses. The project revolves around crack detection, crucial for structural health monitoring and inspection. It includes two subfolders: "with_keras" and "with_pytorch," each containing notebooks for Data Loading, Data Preparation, and Data Modeling.
+  - **IBM_AI_Engineering_final_assignment_1.ipynb (Course1):** Apply algorithms such as Logistic Regression, KNN, Decision Trees, and SVM to predict weather states (Rain or Not) using data from the Australian Government's Bureau of Meteorology. Evaluate your model using metrics like Accuracy Score, Jaccard Index, F1-Score, LogLoss, Mean Absolute Error, Mean Squared Error, and R2-Score.
+  - **concrete_data.csv:** Consists of the dataset used in IBM_AI_Engineering_final_assignment_1.ipynb.
+  - **IBM_AI_Engineering_final_assignment_2.ipynb (Course2):**  Build a regression model using the Keras library to analyze a tabular dataset focused on concrete compressive strength.
+  - **IBM_AI_Engineering_final_assignment_3.ipynb (Course3):** Utilize IBM CV Studio to construct a classifier predicting whether an image contains a road traffic sign.
+  - **IBM_AI_Engineering_final_assignment_4.ipynb (Course4):** Develop a CNN-based classifier using PyTorch for the MNIST Dataset.
+  - **Course_6_Capstone_Project (Course6):** This folder showcases my capstone project submission, where I apply the skills acquired during the 5 courses. The project revolves around crack detection, crucial for structural health monitoring and inspection. It includes two subfolders: "with_keras" and "with_pytorch," each containing notebooks for Data Loading, Data Preparation, and Data Modeling.
   - supporting_notebooks: Access helpful notebooks prepared by IBM instructors throughout the five courses in this folder.
 
 Note all rights of these notebooks belong to DeepLearning.AI. These notebooks are my submissions to the practical labs of this certification.
