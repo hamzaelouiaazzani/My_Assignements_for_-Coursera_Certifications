@@ -16,7 +16,7 @@ Copying and pasting solutions directly from this repository for your own submiss
 
 ## Note on Ownership
 
-All rights of these notebooks belong to the institutions that offer these certifications. These notebooks are my submissions to the practical labs to complete these certifications.
+The original notebooks belong to the institutions that offer these certifications under the MIT license. These notebooks are my submissions to the practical labs to complete these certifications.
 
 ## Your Responsibility
 
