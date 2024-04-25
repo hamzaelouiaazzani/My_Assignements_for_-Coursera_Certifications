@@ -56,9 +56,9 @@ By using this repository, you acknowledge the importance of fair usage, agree to
 - **Course:** [Generative AI with Large Language Models (LLMs)](https://www.coursera.org/learn/generative-ai-with-llms).
 
 - **Gained Skills:**
-  1. Gain foundational knowledge and practical skills in generative AI: Prompt Engineering, Finetuning techniques, Reinforcement Learning from Human Feedback (RLHF).
-  2. Dive into the latest research on Gen AI and its real-world applications.
-  3. Receive instruction from expert AWS AI practitioners actively building and deploying AI in business use-cases.
+  - Gain foundational knowledge and practical skills in generative AI: Prompt Engineering, Finetuning techniques, Reinforcement Learning from Human Feedback (RLHF).
+  - Dive into the latest research on Gen AI and its real-world applications.
+  - Receive instruction from expert AWS AI practitioners actively building and deploying AI in business use-cases.
      
 - [Certification Link](https://coursera.org/share/922e88ee77eb6c36e31e22571b3518d2)
 
@@ -69,10 +69,10 @@ By using this repository, you acknowledge the importance of fair usage, agree to
 - **Offered by:** DeepLearning.AI
   
 - **Gained Skills:**
-  1. Best practices for TensorFlow in computer vision applications.
-  2. Handling real-world image data and strategies to prevent overfitting.
-  3. Building natural language processing systems using TensorFlow.
-  4. Applying RNNs, GRUs, and LSTMs for text-based tasks.
+  - Best practices for TensorFlow in computer vision applications.
+  - Handling real-world image data and strategies to prevent overfitting.
+  - Building natural language processing systems using TensorFlow.
+  - Applying RNNs, GRUs, and LSTMs for text-based tasks.
      
 - **Courses:**
   1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://www.coursera.org/learn/introduction-tensorflow?specialization=tensorflow-in-practice)
@@ -111,10 +111,10 @@ By using this repository, you acknowledge the importance of fair usage, agree to
 - **Offered by:** DeepLearning.AI
      
 - **Gained Skills:**
-  1. Build and train deep neural networks, identify key architecture parameters, implement vectorized neural networks, and apply deep learning to various applications.
-  2. Train test sets, analyze variance for deep learning applications, use standard techniques and optimization algorithms, and implement neural networks in TensorFlow.
-  3. Build convolutional neural networks (CNNs) and apply them to detection and recognition tasks, utilize neural style transfer techniques to generate art, and apply algorithms to process image and video data.
-  4. Build and train recurrent neural networks (RNNs), work with natural language processing (NLP) tasks and word embeddings, and utilize HuggingFace tokenizers and transformer models for named entity recognition (NER) and question answering.
+  - Build and train deep neural networks, identify key architecture parameters, implement vectorized neural networks, and apply deep learning to various applications.
+  - Train test sets, analyze variance for deep learning applications, use standard techniques and optimization algorithms, and implement neural networks in TensorFlow.
+  - Build convolutional neural networks (CNNs) and apply them to detection and recognition tasks, utilize neural style transfer techniques to generate art, and apply algorithms to process image and video data.
+  - Build and train recurrent neural networks (RNNs), work with natural language processing (NLP) tasks and word embeddings, and utilize HuggingFace tokenizers and transformer models for named entity recognition (NER) and question answering.
     
 - **Courses:**
     1. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
