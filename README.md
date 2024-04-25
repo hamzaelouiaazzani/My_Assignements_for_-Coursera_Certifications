@@ -104,6 +104,27 @@ By using this repository, you acknowledge the importance of fair usage, agree to
 
 - [Certification Link](https://coursera.org/share/b78ff9b825c5c23d48152369418eff2b)
 
+### 5. Deep Learning Specialization
+
+- **Instructors:** Andrew Ng, Younes Bensouda Mourri, and Kian Katanforoosh
+  
+- **Offered by:** DeepLearning.AI
+  
+- **Courses:**
+    1. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
+    2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
+    3. [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
+    4. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+    5. [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
+     
+- **Gained Skills:**
+  1. Build and train deep neural networks, identify key architecture parameters, implement vectorized neural networks, and apply deep learning to various applications.
+  2. Train test sets, analyze variance for deep learning applications, use standard techniques and optimization algorithms, and implement neural networks in TensorFlow.
+  3. Build convolutional neural networks (CNNs) and apply them to detection and recognition tasks, utilize neural style transfer techniques to generate art, and apply algorithms to process image and video data.
+  4. Build and train recurrent neural networks (RNNs), work with natural language processing (NLP) tasks and word embeddings, and utilize HuggingFace tokenizers and transformer models for named entity recognition (NER) and question answering.
+
+- [Certification Link](https://coursera.org/share/b2c6848c8cc5df1fca38dc89a99ebbaf)
+
 ## Build Your Career in AI and Data Science
 
 If you are passionate about building a successful career in Artificial Intelligence and Data Science, I highly recommend enrolling in the courses mentioned in this repository. These certifications, offered by renowned institutions and expert instructors, cover a wide range of topics and provide hands-on experience to sharpen your skills.
