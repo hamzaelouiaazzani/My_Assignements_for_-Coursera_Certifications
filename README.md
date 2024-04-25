@@ -29,12 +29,7 @@ By using this repository, you acknowledge the importance of fair usage, agree to
 - **Instructor:** Andrew Ng, Geoff Ladwig, Aarti Bagul and Eddy Shyu
   
 - **Offered by:** Stanford University & DeepLearning.AI
-  
-- **Courses:**
-    1. [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
-    2. [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
-    3. [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
-     
+
 - **Gained Skills:**
   - Build ML models with NumPy (from scratch) & scikit-learn
   - Train supervised models for prediction & binary classification tasks
@@ -44,6 +39,11 @@ By using this repository, you acknowledge the importance of fair usage, agree to
   - Use unsupervised learning techniques for clustering & anomaly detection
   - Build recommender systems with collaborative filtering & deep learning
   - Build a deep reinforcement learning model
+  
+- **Courses:**
+    1. [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning?specialization=machine-learning-introduction)
+    2. [Advanced Learning Algorithms](https://www.coursera.org/learn/advanced-learning-algorithms?specialization=machine-learning-introduction)
+    3. [Unsupervised Learning, Recommenders, Reinforcement Learning](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
 
 - [Certification Link](https://www.coursera.org/account/accomplishments/specialization/certificate/LSWL93VXN373)
 
@@ -109,19 +109,19 @@ By using this repository, you acknowledge the importance of fair usage, agree to
 - **Instructors:** Andrew Ng, Younes Bensouda Mourri, and Kian Katanforoosh
   
 - **Offered by:** DeepLearning.AI
-  
-- **Courses:**
-    1. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
-    2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
-    3. [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
-    4. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
-    5. [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
      
 - **Gained Skills:**
   1. Build and train deep neural networks, identify key architecture parameters, implement vectorized neural networks, and apply deep learning to various applications.
   2. Train test sets, analyze variance for deep learning applications, use standard techniques and optimization algorithms, and implement neural networks in TensorFlow.
   3. Build convolutional neural networks (CNNs) and apply them to detection and recognition tasks, utilize neural style transfer techniques to generate art, and apply algorithms to process image and video data.
   4. Build and train recurrent neural networks (RNNs), work with natural language processing (NLP) tasks and word embeddings, and utilize HuggingFace tokenizers and transformer models for named entity recognition (NER) and question answering.
+    
+- **Courses:**
+    1. [Neural Networks and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
+    2. [Improving Deep Neural Networks: Hyperparameter Tuning, Regularization, and Optimization](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
+    3. [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning)
+    4. [Convolutional Neural Networks](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
+    5. [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
 
 - [Certification Link](https://coursera.org/share/b2c6848c8cc5df1fca38dc89a99ebbaf)
 
