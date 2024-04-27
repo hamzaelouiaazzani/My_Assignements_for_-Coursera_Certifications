@@ -58,7 +58,7 @@ You can find my certification [here](https://coursera.org/share/b2c6848c8cc5df1f
 
   #### Week 3:
   - Planar data classification with shallow neural network built from scratch:
-        - Deep_Learning_Specialization/Course_1/Week_3/Planar_data_classification_with_one_hidden_layer.ipynb
+    - Deep_Learning_Specialization/Course_1/Week_3/Planar_data_classification_with_one_hidden_layer.ipynb
 
   #### Week 4:
   - Building your Deep Neural Network: Step by Step
