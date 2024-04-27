@@ -56,69 +56,69 @@ You can find my certification [here](https://coursera.org/share/b2c6848c8cc5df1f
     - Deep_Learning_Specialization/Course_1/Week_2/Logistic_Regression_with_a_Neural_Network_mindset.ipynb
 
 - Week 3: Planar data classification with shallow neural network built from scratch
-  - Deep_Learning_Specialization/Course_1/Week_3/Planar_data_classification_with_one_hidden_layer.ipynb
+    - Deep_Learning_Specialization/Course_1/Week_3/Planar_data_classification_with_one_hidden_layer.ipynb
 
 - Week 4:
   - Building your Deep Neural Network: Step by Step
     - Implement Forward and backpropagation algorithms from scratch.
-    - Deep_Learning_Specialization/Course_1/Week_4/1_Building_your_Deep_Neural_Network_Step_by_Step.ipynb
+      - Deep_Learning_Specialization/Course_1/Week_4/1_Building_your_Deep_Neural_Network_Step_by_Step.ipynb
   - Build and train from scratch a deep L-layer neural network, and apply it to a cat/not-a-cat classifier
-    - Deep_Learning_Specialization/Course_1/Week_4/2_Deep_Neural_Network_Application.ipynb
+      - Deep_Learning_Specialization/Course_1/Week_4/2_Deep_Neural_Network_Application.ipynb
 
 ### Labs of Course 2: Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization
 
 - Week 1:
   - Initialization techniques
     - Implement different weights initialization techniques used in deep learning including random, zeros, and He initialization, apply each one in a the deep L-layer neural network you built from scratch in Course 1 and analyze the effect of weights initialization to Speed up the convergence of gradient descent.
-    - Deep_Learning_Specialization/Course_2/Week_1/1_Initialization_techniques.ipynb
+      - Deep_Learning_Specialization/Course_2/Week_1/1_Initialization_techniques.ipynb
   - Regularization
     - Implement the L2 and Dropout regularization techniques from scratch and apply them in the deep L-layer neural network you built from scratch in Course 1 to reduce overfitting.
-    - Deep_Learning_Specialization/Course_2/Week_1/2_Regularization.ipynb
+      - Deep_Learning_Specialization/Course_2/Week_1/2_Regularization.ipynb
   - Gradient Checking
     - Implement gradient checking to verify the accuracy of your backpropagation implementation.
-    - Deep_Learning_Specialization/Course_2/Week_1/3_Gradient_Checking.ipynb
+      - Deep_Learning_Specialization/Course_2/Week_1/3_Gradient_Checking.ipynb
 
 - Week 2: Optimization methods
   - Implement from scratch the optimization methods such as (Stochastic) Gradient Descent, Momentum, RMSProp and Adam and apply them to the deep L-layer neural network you built from scratch in Course 1, you will also implement from scratch the random mini-batch algorithm to accelerate convergence and improve optimization.
-  - Deep_Learning_Specialization/Course_2/Week_2/Optimization_methods.ipynb
+    - Deep_Learning_Specialization/Course_2/Week_2/Optimization_methods.ipynb
 
 - Week 3: Tensorflow introduction
   - Explore Tensorflow, a deep learning framework that allows you to build neural networks more easily.
-  - Deep_Learning_Specialization/Course_2/Week_3/Tensorflow_introduction.ipynb
+    - Deep_Learning_Specialization/Course_2/Week_3/Tensorflow_introduction.ipynb
 
 ### Labs of Course 4: Convolutional Neural Networks
 
 - Week 1:
   - Convolution model Step by Step
     - Implement a convolutional neural network from scratch with its components (padding, stride, filter, ...).
-    - Deep_Learning_Specialization/Course_4/Week_1/1_Convolution_model_Step_by_Step_v1.ipynb
+      - Deep_Learning_Specialization/Course_4/Week_1/1_Convolution_model_Step_by_Step_v1.ipynb
   - Convolution model Application
     - Create a mood classifier using the TF Keras Sequential API. Also, build a ConvNet to identify sign language digits using the TF Keras Functional API.
-    - Deep_Learning_Specialization/Course_4/Week_1/2_Convolution_model_Application.ipynb
+      - Deep_Learning_Specialization/Course_4/Week_1/2_Convolution_model_Application.ipynb
 
 - Week 2:
   - Residual Networks (ResNets)
     - Build a very deep convolutional network, using Residual Networks (ResNets) from scratch.
-    - Deep_Learning_Specialization/Course_4/Week_2/1_Residual_Networks.ipynb
+      - Deep_Learning_Specialization/Course_4/Week_2/1_Residual_Networks.ipynb
   - Transfer learning with MobileNet v1
     - Use transfer learning on a pre-trained MobileNetV2 to build an Alpaca/Not Alpaca classifier.
-    - Deep_Learning_Specialization/Course_4/Week_2/2_Transfer_learning_with_MobileNet_v1.ipynb
+      - Deep_Learning_Specialization/Course_4/Week_2/2_Transfer_learning_with_MobileNet_v1.ipynb
 
 - Week 3:
   - Car detection Autonomous driving application
     - Implement object detection using the very powerful YOLO model and explore low-level architecture of YOLO and postprocessing techniques of it for object detection and apply it to car detection dataset.
-    - Deep_Learning_Specialization/Course_4/Week_3/1_Car_detection_Autonomous_driving_application.ipynb
+      - Deep_Learning_Specialization/Course_4/Week_3/1_Car_detection_Autonomous_driving_application.ipynb
   - Image segmentation Unet v2
     - Build your own U-Net, a type of CNN designed for quick, precise image segmentation, and use it to predict a label for every single pixel in an image - in this case, an image from a self-driving car dataset.
-    - Deep_Learning_Specialization/Course_4/Week_3/2_Image_segmentation_Unet_v2.ipynb
+      - Deep_Learning_Specialization/Course_4/Week_3/2_Image_segmentation_Unet_v2.ipynb
 
 - Week 4:
   - Face Recognition
     - Build a face recognition system (one-shot learning, triplet loss, face encoding...).
-    - Deep_Learning_Specialization/Course_4/Week_4/1_Face_Recognition.ipynb
+      - Deep_Learning_Specialization/Course_4/Week_4/1_Face_Recognition.ipynb
   - Art Generation with Neural Style Transfer
     - Implement the neural style transfer algorithm and use it to generate novel artistic images (define style cost function and content cost function).
-    - Deep_Learning_Specialization/Course_4/Week_4/2_Art_Generation_with_Neural_Style_Transfer.ipynb
+      - Deep_Learning_Specialization/Course_4/Week_4/2_Art_Generation_with_Neural_Style_Transfer.ipynb
 
 ## Build Your Career in AI and Data Science
 
