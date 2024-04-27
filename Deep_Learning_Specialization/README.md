@@ -167,8 +167,8 @@ You can find my certification [here](https://coursera.org/share/b2c6848c8cc5df1f
     - Deep_Learning_Specialization/Course_5/Week_4/Transformer_Subclass_v1.ipynb
 
 - Helpful Notebooks:
-  - Preprocessing data for a transformer
-  - Applications of the transformer in Named Entity Recognition and Question Answering tasks
+  - Preprocessing data for a transformer.
+  - Applications of the transformer in Named Entity Recognition and Question Answering tasks.
 
 
 ## Build Your Career in AI and Data Science
