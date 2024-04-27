@@ -124,7 +124,7 @@ You can find my certification [here](https://coursera.org/share/b2c6848c8cc5df1f
     - Implement the neural style transfer algorithm and use it to generate novel artistic images (define style cost function and content cost function).
       - Deep_Learning_Specialization/Course_4/Week_4/2_Art_Generation_with_Neural_Style_Transfer.ipynb
 
-### Labs of Course 5: Natural Language Processing and Sequence Models
+### Labs of Course 5: Sequence Models
 
   #### Week 1:
 
