@@ -109,7 +109,7 @@ You can find my certification [here](https://coursera.org/share/b2c6848c8cc5df1f
       - Deep_Learning_Specialization/Course_4/Week_2/2_Transfer_learning_with_MobileNet_v1.ipynb
 
   #### Week 3:
-  - Object detection: Autonomous driving application
+  - Object detection, Autonomous driving application:
     - Implement object detection using the very powerful YOLO model and explore low-level architecture of YOLO and postprocessing techniques of it for object detection and apply it to car detection dataset.
       - Deep_Learning_Specialization/Course_4/Week_3/1_Car_detection_Autonomous_driving_application.ipynb
   - Image segmentation Unet v2:
@@ -128,41 +128,41 @@ You can find my certification [here](https://coursera.org/share/b2c6848c8cc5df1f
 
   #### Week 1:
 
-- Building a Recurrent Neural Network Step by Step
+- Building a Recurrent Neural Network Step by Step:
   - Implement basic RNNs, GRUs, and LSTMs networks from scratch using Numpy.
     - Deep_Learning_Specialization/Course_5/Week_1/1_Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb
 
-- Dinosaur Island Character-level Language Model
+- Dinosaur Island Character-level Language Model:
   - Build a Character level language model to generate names of dinosaurs.
     - Deep_Learning_Specialization/Course_5/Week_1/2_Dinosaur_Island_Character_level_language_model.ipynb
 
-- Improvise a Jazz Solo with an LSTM Network
+- Improvise a Jazz Solo with an LSTM Network:
   - Build a model that uses an LSTM to generate your own jazz music using the flexible Keras Functional API.
     - Deep_Learning_Specialization/Course_5/Week_1/3_Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb
 
 #### Week 2:
 
-- Operations on Word Vectors
+- Operations on Word Vectors:
   - Use pretrained word embeddings, explain how they capture relationships between words, measure similarity between word vectors using cosine similarity, and solve word analogy problems.
     - Deep_Learning_Specialization/Course_5/Week_2/1_Operations_on_word_vectors_v2a.ipynb
 
-- Emojifier
+- Emojifier:
   - Build a model that inputs a sentence and finds the most appropriate emoji to be used with this sentence.
     - Deep_Learning_Specialization/Course_5/Week_2/2_Emoji_v3a.ipynb
 
 #### Week 3:
 
-- Neural Machine Translation with Attention
+- Neural Machine Translation with Attention:
   - Build the RNN (Encoder-Decoder) architecture with attention as Neural Machine Translation (NMT) model to translate human-readable dates into machine-readable dates.
     - Deep_Learning_Specialization/Course_5/Week_3/1_Neural_machine_translation_with_attention_v4a.ipynb
 
-- Trigger Word Detection
+- Trigger Word Detection:
   - Construct a speech dataset and implement an algorithm for trigger word detection (wake word detection, for example "Hey Alexa turn On" for Amazon products).
     - Deep_Learning_Specialization/Course_5/Week_3/2_Trigger_word_detection_v2a.ipynb
 
 #### Week 4:
 
-- Transformer Architecture
+- Transformer Architecture:
   - Build and train a Transformer model from scratch, the state-of-the-art deep learning architecture widely used in all revolutionizing Generative AI models Chatgpt, GPT4, Gemini, DALL-E, Sora...
     - Deep_Learning_Specialization/Course_5/Week_4/Transformer_Subclass_v1.ipynb
 
