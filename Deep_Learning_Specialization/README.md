@@ -138,7 +138,7 @@ You can find my certification [here](https://coursera.org/share/b2c6848c8cc5df1f
   - Build a model that uses an LSTM to generate your own jazz music using the flexible Keras Functional API.
     - Deep_Learning_Specialization/Course_5/Week_1/3_Improvise_a_Jazz_Solo_with_an_LSTM_Network_v4.ipynb
 
-  #### Week 2:
+#### Week 2:
 
 - Operations on Word Vectors
   - Use pretrained word embeddings, explain how they capture relationships between words, measure similarity between word vectors using cosine similarity, and solve word analogy problems.
@@ -148,7 +148,7 @@ You can find my certification [here](https://coursera.org/share/b2c6848c8cc5df1f
   - Build a model that inputs a sentence and finds the most appropriate emoji to be used with this sentence.
     - Deep_Learning_Specialization/Course_5/Week_2/2_Emoji_v3a.ipynb
 
-  #### Week 3:
+#### Week 3:
 
 - Neural Machine Translation with Attention
   - Build the RNN (Encoder-Decoder) architecture with attention as Neural Machine Translation (NMT) model to translate human-readable dates into machine-readable dates.
@@ -158,7 +158,7 @@ You can find my certification [here](https://coursera.org/share/b2c6848c8cc5df1f
   - Construct a speech dataset and implement an algorithm for trigger word detection (wake word detection, for example "Hey Alexa turn On" for Amazon products).
     - Deep_Learning_Specialization/Course_5/Week_3/2_Trigger_word_detection_v2a.ipynb
 
-  #### Week 4:
+#### Week 4:
 
 - Transformer Architecture
   - Build and train a Transformer model from scratch, the state-of-the-art deep learning architecture widely used in all revolutionizing Generative AI models Chatgpt, GPT4, Gemini, DALL-E, Sora...
